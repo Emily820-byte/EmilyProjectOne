@@ -46,6 +46,7 @@ article{
   border-style: solid;
   border-color: purple;
   font-size: larger;
+  text-align: center;
   padding: 5px;
 }
 p{  
