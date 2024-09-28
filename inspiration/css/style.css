@@ -34,8 +34,8 @@ h1{
   flex-direction: row;
   width: 100%;
   align-content: center;
-  justify-content: space-between;
-  column-gap: 20px;
+  /*justify-content: space-between;*/
+  column-gap: 25px;
 
 }
 img{
