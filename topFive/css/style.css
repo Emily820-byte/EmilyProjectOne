@@ -2,10 +2,7 @@ body {
   background-color: lightskyblue;
   color: black;
 }
-img{
+img {
   width: 400;
   height: 500;
-}
-p{  
-    padding: 5px 10px; /* added */
 }
