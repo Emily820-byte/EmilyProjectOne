@@ -54,16 +54,18 @@ img{
     border-style:dashed;
     border-color: blueviolet;
 }
-p{
-    padding: 5px, 10px;
-}
 #splash-text{
     padding-top: 10px;
     margin-left: 30%;
     margin-right: 30%;
     display:inline;
 }
+p{  
+    padding: 5px 10px; /* added */
+}
+}
 footer{
     font-size: 18px;
-    padding-top: 8px;
+    padding-top: 8px; /* added */
+}
 }
