@@ -41,13 +41,14 @@ img{
   width: 45%;
 }
 article{
+  display: flex;
   width: 45%;
   border-width: 2px;
   border-style: solid;
   border-color: purple;
   font-size: larger;
-  text-align: center;
-  padding: 20px;
+  align-items: center;
+  padding: 12px;
 }
 p{  
   padding: 5px 10px; /* added */
